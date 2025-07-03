@@ -1,0 +1,12 @@
+INFO:devops_service:🚀 DevOps Automation Service initialized
+INFO:__main__:🚀 Starting Enhanced DevOps Automation API...
+INFO:     Started server process [665776]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:__main__:🚀 Processing tickets endpoint called
+INFO:devops_service:🚀 Starting ticket processing pipeline...
+INFO:devops_service:📋 Found 0 new DevOps tickets
+INFO:devops_service:📭 No new tickets found
+INFO:__main__:✅ Endpoint Success: 0 tickets, 0 priority adjustments, 0 AI analyses
+INFO:     10.0.12.231:45322 - "POST /process-tickets HTTP/1.1" 200 OK
